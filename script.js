@@ -18,7 +18,6 @@ eyeIcon.addEventListener("click", () => {
   
 })
 })      
-
 links.forEach(link => {
 link.addEventListener("click", e => {
  e.preventDefault(); //preventing form submit
